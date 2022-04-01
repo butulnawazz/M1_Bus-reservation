@@ -6,7 +6,7 @@
  
  .Behavioral Diagram
  .flow chart
- ![Flow chart](https://user-images.githubusercontent.com/102668684/161297700-fda9183f-92e5-41d4-91ca-6bb767cd1405.jpeg)
+  ![Flow chart](https://user-images.githubusercontent.com/102668684/161297700-fda9183f-92e5-41d4-91ca-6bb767cd1405.jpeg)
  .Schematic Diagram of bus reservation system![schematic diagram](https://user-images.githubusercontent.com/102668684/161301174-26b5d49e-e113-4a06-beb3-a04490c4b8d1.jpeg)
 
 
