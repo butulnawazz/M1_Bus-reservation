@@ -1,4 +1,5 @@
 .Identifying Features
+
  .Real-time omnichannel sales management
  .Advanced fare management
  .Advanced inventory management
@@ -11,14 +12,18 @@
  . On-board check-in
  
  .4W's 1H
+ 
  .What is bus reservation system?
  The Online Bus Ticket Reservation System is a web-based application that allows visitors check bus ticket availability,
  buy bus ticket and pay the bus ticket online.
+ 
  .Why do we need bus reservation system?
  A bus reservation system is a mobile or web software solution designed to provide customers with a personalized easy-to-utilize user 
  experience for booking and purchasing tickets online. 
+ 
 .who need bus reservation system?
  customers to book tickets for various routes and destinations. With the bus ticket reservation system, you can manage reservations, client data, and passenger.
+ 
  .where we need bus resevation system?
  A bus reservation system provide customers with a personalized easy-to-utilize user experience
  for booking and purchasing tickets online.This system is established for all the home/office users after gaining access from the administrator.
