@@ -32,7 +32,10 @@
   ![swot](https://user-images.githubusercontent.com/102668684/161249642-8522ab36-5e92-489d-90d6-fc8f29785da9.jpeg)
  
 .High level as per requirement bus reservation template
- ![High level temp](https://user-images.githubusercontent.com/102668684/161294281-e4b0fc65-ff26-4446-af45-35ec8c261b99.png)
+![template](https://user-images.githubusercontent.com/102668684/161377894-9f537bb7-c8c9-4881-825e-04daa0886afc.png)
+
  
  .Low level as per requirement bus reservation system
-  ![Low level template](https://user-images.githubusercontent.com/102668684/161294477-3544c754-2f26-49e3-a92e-068e620602d7.jpg)
+ ![bus resevation temp](https://user-images.githubusercontent.com/102668684/161377935-2528981e-cd35-4e72-8b48-3d79477b3071.png)
+
+  
