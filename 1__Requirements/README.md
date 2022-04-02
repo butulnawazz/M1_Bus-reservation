@@ -28,8 +28,8 @@
  A bus reservation system provide customers with a personalized easy-to-utilize user experience
  for booking and purchasing tickets online.This system is established for all the home/office users after gaining access from the administrator.
  
- SWOT ANALYSIS
- ![swot](https://user-images.githubusercontent.com/102668684/161249642-8522ab36-5e92-489d-90d6-fc8f29785da9.jpeg)
+ .SWOT ANALYSIS
+  ![swot](https://user-images.githubusercontent.com/102668684/161249642-8522ab36-5e92-489d-90d6-fc8f29785da9.jpeg)
  
 .High level as per requirement bus reservation template
  ![High level temp](https://user-images.githubusercontent.com/102668684/161294281-e4b0fc65-ff26-4446-af45-35ec8c261b99.png)
