@@ -312,7 +312,8 @@ printf("================== BUS RESERVATION SYSTEM ========================\n\n\n
     int i,index=0,j;
     j=read_number(trno);
     read_name(trno);
-    char tempname[33][10]={"Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty "};
+    char tempname[33][10]={"Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty ","Empty",
+    "Empty ","Empty "};
     for(i=0; i<j; i++)
     {
         strcpy(tempname[num1[i]],name[i]);
@@ -370,7 +371,7 @@ fclose(a);
 fclose(b);
 printf("\n\n");
     printf("======================================================================================================\n");
- printf("\t\t\t\tYour 200 rupees has been Returned\t\t\t\n");
+ printf("\t\t\t\tYour money has been Returned\t\t\t\n");
     printf("======================================================================================================\n");
 }
 
