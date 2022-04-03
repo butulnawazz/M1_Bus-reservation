@@ -1,7 +1,5 @@
 .Scource code
 
-[Bus_reservation system.c.zip](https://github.com/butulnawazz/M1_Bus-reservation/files/8402349/Bus_reservation.system.c.zip)
-
 
 #include <stdio.h>
 
